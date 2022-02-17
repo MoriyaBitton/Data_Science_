@@ -35,13 +35,13 @@ Improving the classification project from last semester with the new knowledge w
 
 The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities (such as walking, cycling, playing soccer, etc.), performed by some subjects wearing 3 inertial measurement units and a heart rate monitor. The dataset can be used for activity recognition and intensity estimation while developing and applying algorithms of data processing, segmentation, feature extraction, and classification.
 
-###### Old results:
+**Old results:**
 | Model  | Accuracy |
 | ------------- | ------------- |
 | KNN  | 97.68%  |
 | RandomForestClassifier  | 97.45%  |
 
-###### New results:
+**New results:**
 | Model  | Accuracy |
 | ------------- | ------------- |
 | Voting Hard  | 97.51%  |
