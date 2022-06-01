@@ -142,6 +142,5 @@
 >> 
 >> <img src="https://t3.ftcdn.net/jpg/00/11/09/80/360_F_11098019_i1idssoEViopv3znhszi6vVe0yggGq4o.jpg" width="800" height="200">
 
-> Contact
-> 
+> **Contact:** 
 >> Moriya Bitton - moria1109@gmail.com
