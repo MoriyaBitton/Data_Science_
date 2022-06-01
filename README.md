@@ -1,6 +1,8 @@
 # Data_Science_Final_Project
 
-## Part A 
+###### Ariel University, Israel || Semester B 2021
+
+## Semester A || 2020 - 2021 
 
 **Data set used in the project:**
 
@@ -22,9 +24,10 @@ dataset: https://www.kaggle.com/c/home-depot-product-search-relevance/data?selec
 ![Investor-Conference-2017_Header](https://user-images.githubusercontent.com/73881872/110826173-7b987f00-829d-11eb-84f5-8c40bc9ab822.jpg)
 
 
-## Part B
+## Semester B || 2021
 
-### Overview
+**Overview**
+
 This project is the final project of the Data Science course of Ariel University and was made for study purposes.
 In this project, we walked through machine learning from basic models to more advanced one.
 In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
@@ -130,5 +133,5 @@ for each dataset, we took all 5 lines of recording data and combined them into o
 <img src="https://t3.ftcdn.net/jpg/00/11/09/80/360_F_11098019_i1idssoEViopv3znhszi6vVe0yggGq4o.jpg" width="800" height="200">
 
 
-### Contact
+## Contact
 Moriya Bitton - moria1109@gmail.com
