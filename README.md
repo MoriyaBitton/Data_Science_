@@ -4,27 +4,33 @@
 
 ###### Semester A || 2020 - 2021 
 > **Data set used in the project:**
->> **Classification - PAMAP2**
+>
+>>  **Classification - PAMAP2**
 >> 
 >> The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities 
 >> (such as walking, cycling, playing soccer, etc.), performed by some subjects wearing 3 inertial measurement units and a heart rate monitor. 
 >> The dataset can be used for activity recognition and intensity estimation while developing and applying algorithms 
 >> of data processing, segmentation, feature extraction, and classification 
 >> 
->> dataset: https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset
+>>
+>>  dataset: https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset
 >> 
->> ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
+>>
+>>  ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
 >
->> **Regression - Home Depot Product Search Relevance**
+>
+>>  **Regression - Home Depot Product Search Relevance**
 >> 
 >> This data set contains several products and real customer search terms from Home Depot's website. 
 >> In this Assignment, we need to predict a relevance score for the provided combinations of search terms and products 
 >> (first, character level, and then word/character-combination level). 
 >> To create the ground truth labels, Home Depot has crowdsourced the search/product pairs to multiple human raters. 
 >> 
->> dataset: https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip
+>>
+>>  dataset: https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip
 >> 
->> ![Investor-Conference-2017_Header](https://user-images.githubusercontent.com/73881872/110826173-7b987f00-829d-11eb-84f5-8c40bc9ab822.jpg)
+>>
+>>  ![Investor-Conference-2017_Header](https://user-images.githubusercontent.com/73881872/110826173-7b987f00-829d-11eb-84f5-8c40bc9ab822.jpg)
 
 ###### Semester B || 2021
 > **Overview**
@@ -33,17 +39,17 @@
 > In this project, we walked through machine learning from basic models to more advanced one.
 > In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
 > 
-> **This project was built from 4 parts:**
+>
+>  **This project was built from 4 parts:**
 > 
->> **Part 1:**
+>> **Part 1 - Improving the classification project from last semester:**
 >> 
->> Improving the classification project from last semester with the new knowledge we gained in the semester - PAMAP2.
->> 
->> **Old results:**
+>>  **Old results:**
 >> | Model  | Accuracy |
 >> | ------------- | ------------- |
 >> | KNN  | 97.68%  |
 >> | RandomForestClassifier  | 97.45%  |
+>> 
 >> 
 >> **New results:**
 >> | Model  | Accuracy |
@@ -53,9 +59,12 @@
 >> | DecisionTree  | 98.10%  |
 >> | AdaBoost  | 98.10%  |
 >> 
+>> 
 >> Click [here](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset) for dataset.
 >> 
+>> 
 >> <img src="https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg" width="800" height="200">
+>
 >
 >> **Part 2 - Prediction of Fashion-MNIST Dataset:**
 >> 
@@ -64,8 +73,8 @@
 >> To predict the clothes in the testing set we used different algorithms: 
 >> simple models like KNN, logistic regression, SVC. 
 >> and some ensemble learning models like a voting classifier, random forest, and AdaBoost.
->> 
->> | Model  | Accuracy | Accuracy with PCA |
+>>
+>>  | Model  | Accuracy | Accuracy with PCA |
 >> | ------------- | ------------- | ------------- |
 >> | KNN  | 85.54%  | 86.28% |
 >> | Logistic Regression  | 84.12%  | 83.96% |
@@ -77,11 +86,14 @@
 >> | Random Forest  | 75.34% | 74.35% |
 >> | AdaBoost  | 79.15% | 76.26% |
 >> 
->> Click [here](https://github.com/zalandoresearch/fashion-mnist) for more information.
+>>
+>>  Click [here](https://github.com/zalandoresearch/fashion-mnist) for more information.
 >> 
->> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
+>>
+>>  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
 >
->> **Part 3 - Prediction of Dogs vs. Cats dataset:** 
+>
+>>  **Part 3 - Prediction of Dogs vs. Cats dataset:** 
 >> 
 >> The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 >> 
@@ -91,6 +103,7 @@
 >> * Each row is a separate image
 >> * Each value is an integer (0 to 255)
 >> 
+>> 
 >> | Model  | Accuracy | Accuracy with PCA |
 >> | ------------- | ------------- | ------------- |
 >> | LogisticRegression  |  54.00%  | |
@@ -99,10 +112,13 @@
 >> | RandomForest  | 64.56%  | 64.00% |
 >> | XGboost  | 63.12%  | 63.12% |
 >> 
+>> 
 >> Click [here](https://www.kaggle.com/c/dogs-vs-cats) for dataset.
+>> 
 >> 
 >> <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
 >
+> 
 >> **Part 4:**
 >> 
 >> The purpose of the work is to classify three different situations in the way people communicate with each other. 
@@ -113,6 +129,7 @@
 >> In this part, we get multip datasets (each one is a record of one state using a 3D camera), so first, we united the datasets into one.
 >> for each dataset, we took all 5 lines of recording data and combined them into one line, and ignored the first 7 seconds.
 >> 
+>> 
 >> | Model  | Accuracy |
 >> | ------------- | ------------- | 
 >> | KNN | 89.94%  |
@@ -122,7 +139,9 @@
 >> | Random Forest  | 83.42%  |
 >> | AdaBoost  | 91.39%  |
 >> 
+>> 
 >> <img src="https://t3.ftcdn.net/jpg/00/11/09/80/360_F_11098019_i1idssoEViopv3znhszi6vVe0yggGq4o.jpg" width="800" height="200">
 
 > Contact
+> 
 >> Moriya Bitton - moria1109@gmail.com
