@@ -1,8 +1,8 @@
 # Data_Science_Final_Project
 
-###### Ariel University, Israel 
 
-###### Semester A || 2020 - 2021 
+###### Ariel University, Israel || Semester A 2020-2021 
+
 > **Data set used in the project:**
 >
 >>  **Classification - PAMAP2**
@@ -32,7 +32,9 @@
 >>
 >>  ![Investor-Conference-2017_Header](https://user-images.githubusercontent.com/73881872/110826173-7b987f00-829d-11eb-84f5-8c40bc9ab822.jpg)
 
-###### Semester B || 2021
+
+###### Ariel University, Israel || Semester B 2021 
+
 > **Overview**
 > 
 > This project is the final project of the Data Science course of Ariel University and was made for study purposes.
