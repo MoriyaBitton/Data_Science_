@@ -32,14 +32,14 @@
 
 ### **Overview**
  
-> This project is the final project of the Data Science course of Ariel University and was made for study purposes.
-> In this project, we walked through machine learning from basic models to more advanced one.
-> In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
+This project is the final project of the Data Science course of Ariel University and was made for study purposes.
+In this project, we walked through machine learning from basic models to more advanced one.
+In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
 
 ### **This project was built from 4 parts:**
  
-#### **Part 1 - Improving the classification project from last semester:**
-
+> #### **Part 1 - Improving the classification project from last semester:**
+>
 >  **Old results:**
 > | Model  | Accuracy |
 > | ------------- | ------------- |
