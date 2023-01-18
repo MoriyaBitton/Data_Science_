@@ -38,7 +38,7 @@ In the project, I tried to move forward along with the book (Hands-on Machine Le
 
 ### **This project was built from 4 parts:**
  
-> #### **Part 1 - Improving the classification project from last semester:**
+> **__Part 1__ - Improving the classification project from last semester:**
 >
 >  **Old results:**
 > | Model  | Accuracy |
