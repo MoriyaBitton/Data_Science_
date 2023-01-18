@@ -40,14 +40,14 @@ In the project, I tried to move forward along with the book (Hands-on Machine Le
  
 > **Part 1 - Improving the classification project from last semester:**
 >
->  __Old results:__
+>  _Old results:_
 > 
 > | Model  | Accuracy |
 > | ------------- | ------------- |
 > | KNN  | 97.68%  |
 > | RandomForestClassifier  | 97.45%  |
 > 
-> __New results:__
+> _New results:_
 > | Model  | Accuracy |
 > | ------------- | ------------- |
 > | Voting Hard  | 97.51%  |
