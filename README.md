@@ -3,8 +3,8 @@
 
 ###### Ariel University, Israel || Semester A 2020-2021 
 
-> **Data set used in the project:**
->
+## __Data set used in the project:__
+
 >>  **Classification - PAMAP2**
 >> 
 >> The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities 
@@ -17,8 +17,7 @@
 >> 
 >>
 >>  ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
->
->
+
 >>  **Regression - Home Depot Product Search Relevance**
 >> 
 >> This data set contains several products and real customer search terms from Home Depot's website. 
