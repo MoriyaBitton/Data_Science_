@@ -35,7 +35,6 @@
 > In this project, we walked through machine learning from basic models to more advanced one.
 > In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
 >
->
 > _This project was built from 4 parts:_
 >
 >  #### **Part 1 - Improving the classification project from last semester:**
