@@ -36,8 +36,7 @@
 > In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
 >
 >
-> **This project was built from 4 parts:**
-> 
+> _This project was built from 4 parts:_
 >
 >  #### **Part 1 - Improving the classification project from last semester:**
 >
