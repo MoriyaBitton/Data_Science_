@@ -2,7 +2,7 @@
 
 ###### Ariel University, Israel || Semester A, 2020-2021 
 
-> ### **Datasets used in the project:**
+> ## **Datasets used in the project:**
 > 
 >  #### **Classification - PAMAP2**
 > 
@@ -29,7 +29,7 @@
 
 ###### Ariel University, Israel || Semester, B 2021 
 
-> ### **Overview**
+> ## **Overview**
 >  
 > This project is the final project of the Data Science course of Ariel University and was made for study purposes.
 > In this project, we walked through machine learning from basic models to more advanced one.
@@ -130,5 +130,6 @@
 > 
 > <img src="https://t3.ftcdn.net/jpg/00/11/09/80/360_F_11098019_i1idssoEViopv3znhszi6vVe0yggGq4o.jpg" width="800" height="200">
 
-### **Contact:** 
+> ### **Contact:** 
+> 
 > _Email:_ moria1109@gmail.com
