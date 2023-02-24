@@ -2,9 +2,9 @@
 
 ###### Ariel University, Israel || Semester A, 2020-2021 
 
-> ### __Datasets used in the project:__
+> ### **Datasets used in the project:**
 > 
->  **Classification - PAMAP2**
+>  #### **Classification - PAMAP2**
 > 
 > The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities 
 > (such as walking, cycling, playing soccer, etc.), performed by some subjects wearing 3 inertial measurement units and a heart rate monitor. 
@@ -15,7 +15,8 @@
 >
 > ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
 >
->  **Regression - Home Depot Product Search Relevance**
+>
+>  #### **Regression - Home Depot Product Search Relevance**
 > 
 > This data set contains several products and real customer search terms from Home Depot's website. 
 > In this Assignment, we need to predict a relevance score for the provided combinations of search terms and products 
@@ -33,10 +34,12 @@
 > This project is the final project of the Data Science course of Ariel University and was made for study purposes.
 > In this project, we walked through machine learning from basic models to more advanced one.
 > In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
+> 
 >
-> #### **This project was built from 4 parts:**
+> ### **This project was built from 4 parts:**
+> 
 >
-> **Part 1 - Improving the classification project from last semester:**
+>  #### **Part 1 - Improving the classification project from last semester:**
 >
 >  _Old results:_
 > 
@@ -57,7 +60,8 @@
 > 
 > <img src="https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg" width="800" height="200">
 >
-> **Part 2 - Prediction of Fashion-MNIST Dataset:**
+>
+> #### **Part 2 - Prediction of Fashion-MNIST Dataset:**
 >
 > In this part of the project, we were required to identify images of clothes by using pixels.
 > So to reduce the problem we used PCA so that instead of processing 784 pixels it processed only 100.
@@ -81,7 +85,8 @@
 >
 >  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
 >
-> **Part 3 - Prediction of Dogs vs. Cats dataset:** 
+> 
+> #### **Part 3 - Prediction of Dogs vs. Cats dataset:** 
 >
 > The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 > 
@@ -103,7 +108,8 @@
 > 
 > <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
 >
-> **Part 4:**
+> 
+> #### **Part 4:**
 >
 > The purpose of the work is to classify three different situations in the way people communicate with each other. 
 > 
@@ -125,4 +131,4 @@
 > <img src="https://t3.ftcdn.net/jpg/00/11/09/80/360_F_11098019_i1idssoEViopv3znhszi6vVe0yggGq4o.jpg" width="800" height="200">
 
 ### **Contact:** 
-> __Email:__ moria1109@gmail.com
+> _Email:_ moria1109@gmail.com
