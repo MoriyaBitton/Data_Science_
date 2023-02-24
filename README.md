@@ -2,8 +2,8 @@
 
 ###### Ariel University, Israel || Semester A, 2020-2021 
 
-### __Datasets used in the project:__
-
+> ### __Datasets used in the project:__
+> 
 >  **Classification - PAMAP2**
 > 
 > The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities 
@@ -14,7 +14,7 @@
 > [Dataset](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)
 >
 > ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
-
+>
 >  **Regression - Home Depot Product Search Relevance**
 > 
 > This data set contains several products and real customer search terms from Home Depot's website. 
@@ -26,7 +26,6 @@
 >
 > ![Investor-Conference-2017_Header](https://user-images.githubusercontent.com/73881872/110826173-7b987f00-829d-11eb-84f5-8c40bc9ab822.jpg)
 
-
 ###### Ariel University, Israel || Semester, B 2021 
 
 > ### **Overview**
@@ -34,8 +33,8 @@
 > This project is the final project of the Data Science course of Ariel University and was made for study purposes.
 > In this project, we walked through machine learning from basic models to more advanced one.
 > In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
-
-> ### **This project was built from 4 parts:**
+>
+> #### **This project was built from 4 parts:**
 >
 > **Part 1 - Improving the classification project from last semester:**
 >
@@ -57,7 +56,7 @@
 > [Click here for Dataset](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)
 > 
 > <img src="https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg" width="800" height="200">
-
+>
 > **Part 2 - Prediction of Fashion-MNIST Dataset:**
 >
 > In this part of the project, we were required to identify images of clothes by using pixels.
@@ -81,7 +80,7 @@
 > [Click herefor more Information](https://github.com/zalandoresearch/fashion-mnist)
 >
 >  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
-
+>
 > **Part 3 - Prediction of Dogs vs. Cats dataset:** 
 >
 > The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
@@ -103,7 +102,7 @@
 > [Click here for Dataset.](https://www.kaggle.com/c/dogs-vs-cats)
 > 
 > <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
- 
+>
 > **Part 4:**
 >
 > The purpose of the work is to classify three different situations in the way people communicate with each other. 
@@ -126,4 +125,4 @@
 > <img src="https://t3.ftcdn.net/jpg/00/11/09/80/360_F_11098019_i1idssoEViopv3znhszi6vVe0yggGq4o.jpg" width="800" height="200">
 
 ### **Contact:** 
-__Email:__ moria1109@gmail.com
+> __Email:__ moria1109@gmail.com
