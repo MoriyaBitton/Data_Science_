@@ -53,13 +53,13 @@ _____________________________________________________
 
 ###### Ariel University, Israel || Semester, B 2021 
 
-> **Overview**
+> #### **Overview**
 >  
 > I made this project for my final Data Science course at Ariel University. 
 > During the course of this project, we studied machine learning from basic models to more advanced ones. 
 > I tried to follow the book's instructions (Hands-on Machine Learning) in the project and slowly refine the models.
 > 
-> This project was built in 4 parts:
+> #### This project was built in 4 parts:
 >
 > **Part 1 - Improving the classification project from last semester:**
 >
@@ -104,8 +104,6 @@ _____________________________________________________
 >
 > 
 > **Part 3 - Prediction of [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) Dataset:** 
->
-> The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 > 
 > * The train folder contains 25,000 images of dogs and cats, and the test folder contains 12,500 images.
 > * Each image has a different size. I resized the images to 50 pixels in height and 50 pixels in width.
@@ -127,10 +125,10 @@ _____________________________________________________
 > **Part 4:**
 > 
 > * In this work, we will classify three different situations of how people interact. The first scenario is a spontaneous (autonomous) hand movement between two people. Second, there is a synchronous movement that involves two people moving their hands together, and third, there is a single movement.
+> 
 > * Using the patterns of the hands, we can determine whether the situation is spontaneous, alone or synchronous. 
 > 
-> Our first step is to unite the datasets (each one is a record of one state using a 3D camera), so we get multiple datasets in this section. 
-> For each dataset, we merged all five lines of recording data into one line, and ignored the first seven seconds.
+> * Our first step is to unite the datasets (each one is a record of one state using a 3D camera), so we get multiple datasets in this section. For each dataset, we merged all five lines of recording data into one line, and ignored the first seven seconds.
 > 
 > | Model  | Accuracy |
 > | ------------- | ------------- | 
