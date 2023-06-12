@@ -78,7 +78,6 @@ _____________________________________________________
 > | DecisionTree  | 98.10%  |
 > | AdaBoost  | 98.10%  |
 > 
-> <img src="https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg" width="800" height="200">
 >
 >
 > **Part 2 - Prediction of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) Dataset:**
@@ -101,6 +100,7 @@ _____________________________________________________
 > | AdaBoost  | 79.15% | 76.26% |
 >
 >  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
+>  
 >
 > 
 > **Part 3 - Prediction of [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) Dataset:** 
@@ -120,6 +120,7 @@ _____________________________________________________
 > | XGboost  | 63.12%  | 63.12% |
 > 
 > <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
+> 
 >
 > 
 > **Part 4:**
