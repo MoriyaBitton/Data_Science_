@@ -26,29 +26,26 @@ _____________________________________________________
 
 ###### Ariel University, Israel || Semester A, 2020-2021 
 
-> **Datasets used in the project:**
-> 
-> **Classification - [PAMAP2](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)**
+> **Classification Datasets - [PAMAP2](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)**
 > 
 > The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities 
 > (such as walking, cycling, playing soccer, etc.), performed by some subjects wearing 3 inertial measurement units and a heart rate monitor. 
 > The dataset can be used for activity recognition and intensity estimation while developing and applying algorithms 
-> of data processing, segmentation, feature extraction, and classification 
->
+> of data processing, segmentation, feature extraction, and classification.
 >
 > ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
 >
 >
-> **Regression - [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip)**
+> **Regression Datasets - [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip)**
 > 
 > This data set contains several products and real customer search terms from Home Depot's website. 
 > In this Assignment, we need to predict a relevance score for the provided combinations of search terms and products 
 > (first, character level, and then word/character-combination level). 
 > To create the ground truth labels, Home Depot has crowdsourced the search/product pairs to multiple human raters. 
->
 > 
->
 > ![Investor-Conference-2017_Header](https://user-images.githubusercontent.com/73881872/110826173-7b987f00-829d-11eb-84f5-8c40bc9ab822.jpg)
+> 
+> 
 
 _____________________________________________________
 
@@ -58,11 +55,11 @@ _____________________________________________________
 
 > **Overview**
 >  
-> This project is the final project of the Data Science course of Ariel University and was made for study purposes.
-> In this project, we walked through machine learning from basic models to more advanced one.
-> In the project, I tried to move forward along with the book (Hands-on Machine Learning) and slowly improve the models.
->
-> _This project was built from 4 parts:_
+> I made this project for my final Data Science course at Ariel University. 
+> During the course of this project, we studied machine learning from basic models to more advanced ones. 
+> I tried to follow the book's instructions (Hands-on Machine Learning) in the project and slowly refine the models.
+> 
+> This project was built in 4 parts:
 >
 > **Part 1 - Improving the classification project from last semester:**
 >
@@ -81,18 +78,15 @@ _____________________________________________________
 > | DecisionTree  | 98.10%  |
 > | AdaBoost  | 98.10%  |
 > 
-> [Click here for Dataset](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)
-> 
 > <img src="https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg" width="800" height="200">
 >
 >
-> **Part 2 - Prediction of Fashion-MNIST Dataset:**
+> **Part 2 - Prediction of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) Dataset:**
 >
-> In this part of the project, we were required to identify images of clothes by using pixels.
-> So to reduce the problem we used PCA so that instead of processing 784 pixels it processed only 100.
-> To predict the clothes in the testing set we used different algorithms: 
-> simple models like KNN, logistic regression, SVC. 
-> and some ensemble learning models like a voting classifier, random forest, and AdaBoost.
+> By analyzing pixels, we were able to identify clothes images. 
+> Therefore, to reduce the problem, we used PCA to process only 100 pixels instead of 784. 
+> We used different algorithms to predict the clothes in the testing set: KNNs, logistic regressions, and SVCs. 
+> Several ensemble learning models, such as a voting classifier, random forest, and AdaBoost, are also available.
 >
 > | Model  | Accuracy | Accuracy with PCA |
 > | ------------- | ------------- | ------------- |
@@ -106,12 +100,10 @@ _____________________________________________________
 > | Random Forest  | 75.34% | 74.35% |
 > | AdaBoost  | 79.15% | 76.26% |
 >
-> [Click herefor more Information](https://github.com/zalandoresearch/fashion-mnist)
->
 >  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
 >
 > 
-> **Part 3 - Prediction of Dogs vs. Cats dataset:** 
+> **Part 3 - Prediction of [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) Dataset:** 
 >
 > The Dogs vs. Cats dataset is a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
 > 
@@ -129,20 +121,16 @@ _____________________________________________________
 > | RandomForest  | 64.56%  | 64.00% |
 > | XGboost  | 63.12%  | 63.12% |
 > 
-> [Click here for Dataset.](https://www.kaggle.com/c/dogs-vs-cats)
-> 
 > <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
 >
 > 
 > **Part 4:**
->
-> The purpose of the work is to classify three different situations in the way people communicate with each other. 
 > 
-> The first is a spontaneous (autonomous) situation in which two people move their hands freely in front of each other. 
-> The second is a synchronous movement in which the two people move their hands together and the third is a movement in a single position.
-> The idea is to look at the patterns of the hands and try to deduce from them whether it is a situation alone, spontaneous or synchronous.
-> In this part, we get multip datasets (each one is a record of one state using a 3D camera), so first, we united the datasets into one.
-> for each dataset, we took all 5 lines of recording data and combined them into one line, and ignored the first 7 seconds.
+> * In this work, we will classify three different situations of how people interact. The first scenario is a spontaneous (autonomous) hand movement between two people. Second, there is a synchronous movement that involves two people moving their hands together, and third, there is a single movement.
+> * Using the patterns of the hands, we can determine whether the situation is spontaneous, alone or synchronous. 
+> 
+> Our first step is to unite the datasets (each one is a record of one state using a 3D camera), so we get multiple datasets in this section. 
+> For each dataset, we merged all five lines of recording data into one line, and ignored the first seven seconds.
 > 
 > | Model  | Accuracy |
 > | ------------- | ------------- | 
