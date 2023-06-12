@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 ###### Ariel University, Israel || Semester A, 2022-2023 
 
-### [Syllabus]()
+### [Syllabus](https://github.com/MoriyaBitton/Data_Science_/blob/main/%D7%AA%D7%A8%D7%92%D7%95%D7%9C%20-%20%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D/%D7%A1%D7%99%D7%9C%D7%91%D7%95%D7%A1%20-%20%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D.pdf)
 
 ### Code - Python
 * [Agglomerative Clustering]()
