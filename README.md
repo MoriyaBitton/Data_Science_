@@ -2,7 +2,7 @@
 
 _____________________________________________________
 
-#### Teaching assistant
+## Teaching assistant
 
 ###### Ariel University, Israel || Semester A, 2022-2023 
 
@@ -28,14 +28,13 @@ _____________________________________________________
 
 > **Datasets used in the project:**
 > 
-> **Classification - PAMAP2**
+> **Classification - [PAMAP2](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)**
 > 
 > The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities 
 > (such as walking, cycling, playing soccer, etc.), performed by some subjects wearing 3 inertial measurement units and a heart rate monitor. 
 > The dataset can be used for activity recognition and intensity estimation while developing and applying algorithms 
 > of data processing, segmentation, feature extraction, and classification 
 >
-> [Dataset](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset)
 >
 > ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
 >
