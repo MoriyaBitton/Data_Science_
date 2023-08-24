@@ -1,14 +1,13 @@
 # Data Science
-
 __________________________________________________________________________________________________________
 
-## Teaching assistant
+## Teaching Assistant
 
 ###### Ariel University, Israel || Semester A, 2022-2023 
 
-### [Syllabus](https://github.com/MoriyaBitton/Data_Science_/blob/main/%D7%AA%D7%A8%D7%92%D7%95%D7%9C%20-%20%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D/%D7%A1%D7%99%D7%9C%D7%91%D7%95%D7%A1%20-%20%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D.pdf)
+### [_Syllabus_](https://github.com/MoriyaBitton/Data_Science_/blob/main/%D7%AA%D7%A8%D7%92%D7%95%D7%9C%20-%20%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D/%D7%A1%D7%99%D7%9C%D7%91%D7%95%D7%A1%20-%20%D7%9E%D7%91%D7%95%D7%90%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%A0%D7%AA%D7%95%D7%A0%D7%99%D7%9D.pdf)
 
-### Code - Python
+### _Code - Python_
 * [Agglomerative Clustering]()
 * [Decison Tree - Classification]()
 * [Hello Numpy]()
@@ -16,7 +15,7 @@ ________________________________________________________________________________
 * [Linear Regression - Regression]()
 * [SVM - Cross Validation]()
 
-### Email To Contact: 
+### _Email To Contact_
 moria1109@gmail.com
 
 __________________________________________________________________________________________________________
@@ -25,13 +24,13 @@ ________________________________________________________________________________
 
 ###### Ariel University, Israel || Semester A, 2020-2021 
 
-### Classification Datasets - [PAMAP2](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset):
+### _Classification Datasets_ - [PAMAP2](https://www.kaggle.com/avrahamcalev/time-series-models-pamap2-dataset):
 
 The PAMAP2 Physical Activity Monitoring dataset contains data of 24 different physical activities (such as walking, cycling, playing soccer, etc.), performed by some subjects wearing 3 inertial measurement units and a heart rate monitor. The dataset can be used for activity recognition and intensity estimation while developing and applying algorithms of data processing, segmentation, feature extraction, and classification. 
 
 ![unnamed](https://user-images.githubusercontent.com/73881872/110826136-72a7ad80-829d-11eb-8364-ddaeb7487934.jpg)
 
-### Regression Datasets - [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip):
+### _Regression Datasets_ - [Home Depot Product Search Relevance](https://www.kaggle.com/c/home-depot-product-search-relevance/data?select=product_descriptions.csv.zip):
 
 This data set contains several products and real customer search terms from Home Depot's website. In this Assignment, we need to predict a relevance score for the provided combinations of search terms and products (first, character level, and then word/character-combination level). To create the ground truth labels, Home Depot has crowdsourced the search/product pairs to multiple human raters. 
 
@@ -45,7 +44,7 @@ _____________________________________________________
   
 The project, which consists of 4 parts, was made for my final Data Science course at Ariel University. This project covered machine learning from the basics to more advanced models. I followed the book's instructions (Hands-on Machine Learning) and slowly refined the models as I worked on the project.
 
-### Part 1 - Improving the classification project from last semester:
+### _Part 1 - Improving the classification project from last semester_
 
   _Old results:_
  | Model  | Accuracy |
@@ -61,7 +60,7 @@ The project, which consists of 4 parts, was made for my final Data Science cours
  | DecisionTree  | 98.10%  |
  | AdaBoost  | 98.10%  |
 
-### Part 2 - Prediction of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) Dataset:
+### _Part 2 - Prediction of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) Dataset_
 
  By analyzing pixels, we were able to identify clothes images. 
  Therefore, to reduce the problem, we used PCA to process only 100 pixels instead of 784. 
@@ -82,7 +81,7 @@ The project, which consists of 4 parts, was made for my final Data Science cours
 
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
  
-### Part 3 - Prediction of [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) Dataset:
+### _Part 3 - Prediction of [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) Dataset_
  
  * The train folder contains 25,000 images of dogs and cats, and the test folder contains 12,500 images.
  * Each image has a different size. I resized the images to 50 pixels in height and 50 pixels in width.
@@ -100,7 +99,7 @@ The project, which consists of 4 parts, was made for my final Data Science cours
  
  <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
  
-### Part 4:
+### _Part 4_
  
  * In this work, we will classify three different situations of how people interact. The first scenario is a spontaneous (autonomous) hand movement between two people. Second, there is a synchronous movement that involves two people moving their hands together, and third, there is a single movement.
  * Using the patterns of the hands, we can determine whether the situation is spontaneous, alone or synchronous. 
