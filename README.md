@@ -1,5 +1,4 @@
 # Data Science
-__________________________________________________________________________________________________________
 
 ## Teaching Assistant
 ###### Ariel University, Israel || Semester A, 2022-2023 
@@ -16,6 +15,7 @@ ________________________________________________________________________________
 
 ### _Email To Contact_
 moria1109@gmail.com
+
 
 ## Final Project - Part A
 ###### Ariel University, Israel || Semester A, 2020-2021 
@@ -37,7 +37,6 @@ This data set contains several products and real customer search terms from Home
 The project, which consists of 4 parts, was made for my final Data Science course at Ariel University. This project covered machine learning from the basics to more advanced models. I followed the book's instructions (Hands-on Machine Learning) and slowly refined the models as I worked on the project.
 
 ### _Part 1 - Improving the classification project from last semester_
-
   _Old results:_
  | Model  | Accuracy |
  | ------------- | ------------- |
@@ -53,7 +52,6 @@ The project, which consists of 4 parts, was made for my final Data Science cours
  | AdaBoost  | 98.10%  |
 
 ### _Part 2 - Prediction of [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) Dataset_
-
  By analyzing pixels, we were able to identify clothes images. 
  Therefore, to reduce the problem, we used PCA to process only 100 pixels instead of 784. 
  We used different algorithms to predict the clothes in the testing set: KNNs, logistic regressions, and SVCs. 
@@ -74,7 +72,6 @@ The project, which consists of 4 parts, was made for my final Data Science cours
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--s6xGmaZX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://raw.githubusercontent.com/zalandoresearch/fashion-mnist/master/doc/img/fashion-mnist-sprite.png" width="800" height="200">
  
 ### _Part 3 - Prediction of [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats) Dataset_
- 
  * The train folder contains 25,000 images of dogs and cats, and the test folder contains 12,500 images.
  * Each image has a different size. I resized the images to 50 pixels in height and 50 pixels in width.
  * Each pixel has three colors (RGB) and ranges from 0 to 255 associated with it.
@@ -91,11 +88,10 @@ The project, which consists of 4 parts, was made for my final Data Science cours
  
  <img src="https://www.madpaws.com.au/wp-content/uploads/2015/05/dogvscat_orig.jpg" width="800" height="200">
  
-### _Part 4_
- 
+### _Part 4_ 
  * In this work, we will classify three different situations of how people interact. The first scenario is a spontaneous (autonomous) hand movement between two people. Second, there is a synchronous movement that involves two people moving their hands together, and third, there is a single movement.
  * Using the patterns of the hands, we can determine whether the situation is spontaneous, alone or synchronous. 
- * Our first step is to unite the datasets (each one is a record of one state using a 3D camera), so we get multiple datasets in this section. For each dataset, we merged all five lines of recording data into one line, and ignored the first seven seconds.
+ * Our first step is to unite the datasets (each one is a record of one state using a 3D camera), so we get multiple datasets in this section. For each dataset, we merged all five lines of recording data into one line and ignored the first seven seconds.
  
  | Model  | Accuracy |
  | ------------- | ------------- | 
